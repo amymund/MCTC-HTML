@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 211, 250);
+    color: rgb(237, 4, 229);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: "Abril Fatface", serif; 
+    color: #f858f5;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(224, 43, 203)
+}
+
+h2 {
+    font-family: serif; 
+    font-style: italic;
+    text-align: right;
+    color: rgb(175, 39, 173); 
+    font-size: 24pt;
+}
+
+h3 {
+    font-size: 18pt;
+    color:#af0fb8;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+legend {
+    color: #9000d3;
+    font-family: 'aileron', sans-serif;
+}
+
+li {
+    font-size: 18pt;
+
+}
